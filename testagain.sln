@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1703.6
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "testagain", "testagain\testagain.csproj", "{582A174D-5B56-4A58-A2D9-8B902AC101F2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OneSignalNotificationServiceExtention", "OneSignalNotificationServiceExtention\OneSignalNotificationServiceExtention.csproj", "{CA0CF914-C971-410A-80D0-168F53DC0081}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+		Debug|iPhone = Debug|iPhone
+		Release|iPhone = Release|iPhone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{582A174D-5B56-4A58-A2D9-8B902AC101F2}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{582A174D-5B56-4A58-A2D9-8B902AC101F2}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{582A174D-5B56-4A58-A2D9-8B902AC101F2}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{582A174D-5B56-4A58-A2D9-8B902AC101F2}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+		{582A174D-5B56-4A58-A2D9-8B902AC101F2}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{582A174D-5B56-4A58-A2D9-8B902AC101F2}.Debug|iPhone.Build.0 = Debug|iPhone
+		{582A174D-5B56-4A58-A2D9-8B902AC101F2}.Release|iPhone.ActiveCfg = Release|iPhone
+		{582A174D-5B56-4A58-A2D9-8B902AC101F2}.Release|iPhone.Build.0 = Release|iPhone
+		{CA0CF914-C971-410A-80D0-168F53DC0081}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{CA0CF914-C971-410A-80D0-168F53DC0081}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{CA0CF914-C971-410A-80D0-168F53DC0081}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{CA0CF914-C971-410A-80D0-168F53DC0081}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+		{CA0CF914-C971-410A-80D0-168F53DC0081}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{CA0CF914-C971-410A-80D0-168F53DC0081}.Debug|iPhone.Build.0 = Debug|iPhone
+		{CA0CF914-C971-410A-80D0-168F53DC0081}.Release|iPhone.ActiveCfg = Release|iPhone
+		{CA0CF914-C971-410A-80D0-168F53DC0081}.Release|iPhone.Build.0 = Release|iPhone
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1057EEB2-ECF6-4D5B-BF7E-3BFB3E7998F3}
+	EndGlobalSection
+EndGlobal
